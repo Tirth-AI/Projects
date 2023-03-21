@@ -5,6 +5,7 @@
 <h4>3. Calculator: https://github.com/Tirth-AI/My-Calculator</h4>
 <h4>4. My Quiz App: https://github.com/Tirth-AI/Quiz-App</h4>
 <h4>5. Age to Minutes: https://github.com/Tirth-AI/Age-to-Minutes-Calculator</h4>
+<h4>6. Weather Query: https://github.com/Tirth-AI/Weather-Query-App</h4>
 <br>
 
 # Group Projects
