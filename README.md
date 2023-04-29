@@ -12,7 +12,7 @@
 
 # Group Projects
 
-<h4>1. UniTrack(college Prokect): https://github.com/Tirth-AI/UniTrack </h4>
+<h4>1. UniTrack(college Project): https://github.com/Tirth-AI/UniTrack </h4>
 <h4>2. Girlscript Winter of Contributing(Open Source): https://github.com/girlscript/winter-of-contributing </h4>
 <br>
 
