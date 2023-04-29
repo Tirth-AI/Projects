@@ -26,4 +26,4 @@
 
 # School Project
 
-<h4>1. Employee management System: https://github.com/Tirth-AI/Employee-Management-System</h4>
+<h4>1. Employee Management System: https://github.com/Tirth-AI/Employee-Management-System</h4>
