@@ -1,13 +1,14 @@
 # Android Projects
 
-<h4>1. Chat Me Up: https://github.com/Tirth-AI/Chat-Me-Up</h4>
-<h4>2. Drawing App: https://github.com/Tirth-AI/Drawing-App </h4>
-<h4>3. Calculator: https://github.com/Tirth-AI/My-Calculator</h4>
-<h4>4. My Quiz App: https://github.com/Tirth-AI/Quiz-App</h4>
-<h4>5. Age to Minutes: https://github.com/Tirth-AI/Age-to-Minutes-Calculator</h4>
-<h4>6. Weather Query: https://github.com/Tirth-AI/Weather-Query-App</h4>
-<h4>7. Memes Club: https://github.com/Tirth-AI/Memes-Club</h4>
-<h4>8. News App: https://github.com/Tirth-AI/News-App</h4>
+<h4>1. Chat App: https://github.com/Tirth-AI/Chat-Me-Up</h4>
+<h4>2. Weather Query: https://github.com/Tirth-AI/Weather-Query-App</h4>
+<h4>3. Near Spots: https://github.com/Tirth-AI/Near-Spots</h4>
+<h4>4. News App: https://github.com/Tirth-AI/News-App</h4>
+<h4>5. Drawing App: https://github.com/Tirth-AI/Drawing-App </h4>
+<h4>6. Calculator: https://github.com/Tirth-AI/My-Calculator</h4>
+<h4>7. My Quiz App: https://github.com/Tirth-AI/Quiz-App</h4>
+<h4>8. Age to Minutes: https://github.com/Tirth-AI/Age-to-Minutes-Calculator</h4>
+<h4>9. Memes Club: https://github.com/Tirth-AI/Memes-Club</h4>
 <br>
 
 # Group Projects
