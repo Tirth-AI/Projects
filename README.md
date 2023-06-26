@@ -9,6 +9,7 @@
 <h4>7. My Quiz App: https://github.com/Tirth-AI/Quiz-App</h4>
 <h4>8. Age to Minutes: https://github.com/Tirth-AI/Age-to-Minutes-Calculator</h4>
 <h4>9. Memes Club: https://github.com/Tirth-AI/Memes-Club</h4>
+<h4>10. Tic Tac Toe: https://github.com/Tirth-AI/Tic-Tac-Toe-App</h4>
 <br>
 
 # Group Projects
