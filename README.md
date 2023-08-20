@@ -1,3 +1,9 @@
+# Web Projects
+<h4>1.Ftiness Website: https://github.com/Tirth-AI/Fitness_Website</h4>
+<h4>2.Portfolio: https://github.com/Tirth-AI/Tirth-Portfolio</h4>
+
+
+
 # Android Projects
 
 <h4>1. Chat App: https://github.com/Tirth-AI/Chat-Me-Up</h4>
