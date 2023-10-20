@@ -4,7 +4,7 @@
 
 # Android Projects
 
-<h4>1. Chat App: https://github.com/Tirth-AI/Chat-Me-Up</h4>
+<h4>1. Chat App: https://github.com/Tirth-AI/Firebase-Chat-App</h4>
 <h4>2. Weather Query: https://github.com/Tirth-AI/Weather-Query-App</h4>
 <h4>3. Near Spots: https://github.com/Tirth-AI/Near-Spots</h4>
 <h4>4. News App: https://github.com/Tirth-AI/News-App</h4>
