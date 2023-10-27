@@ -1,5 +1,5 @@
 # Web Projects
-<h4>1.Ftiness Website: https://github.com/Tirth-AI/Fitness_Website</h4>
+<h4>1.Fitness Website: https://github.com/Tirth-AI/Fitness_Website</h4>
 
 
 # Android Projects
